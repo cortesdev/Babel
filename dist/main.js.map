@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/main.js"],"names":[],"mappings":";;AAAA,IAAI,GAAG,GAAG,aAAa,CAAC;AACxB,OAAO,CAAC,GAAG,CAAC,GAAG,CAAC,CAAC","file":"main.js","sourcesContent":["let log = 'Hello world';\nconsole.log(log);\n"]}
